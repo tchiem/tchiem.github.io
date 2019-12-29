@@ -743,8 +743,7 @@ table {
     margin-right: -5%;
     -webkit-transition: height 0.2s;
     transition: height 0.2s;
-    top: 20px;
-    top: 1.25rem; }
+    top: -1px;  }
     .js .navcollapse {
       position: absolute;
       margin: 0;
